@@ -1,2 +1,2 @@
-# Telit_IotSDK
-## SDK 자료 공유방
+## Telit_IotSDK
+####  Telit TX/PLS 시리즈 개발 자료 
