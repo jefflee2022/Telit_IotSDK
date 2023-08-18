@@ -6,7 +6,7 @@
   2. apt-get install python-pip
   3. python -m pip install numpy
 
-- [Getting_Started.pdf](uploads/c319927f8c17d373f2631b4ec2a753e3/Getting_Started.pdf)
+- [Getting_Started.pdf](https://github.com/jefflee2022/Telit_IotSDK/blob/main/Getting_Started.pdf)
 - [IoT_sdk_overview.pdf](uploads/aa9ea139690074195b6de17a7802f6a3/IoT_sdk_overview.pdf)
 - [tls_certificate_loading.pdf](uploads/cdf7ed2862316075940ee273f997f6de/tls_certificate_loading.pdf)
 ### 2. 컴파일 
