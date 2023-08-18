@@ -43,6 +43,6 @@
 
 
 ### 5. 컨넥션 
-  - 리눅스 :disappointed: ttyACM0 연결 안됨 
-  - Windows 10 :100: COM16 
+  - 리눅스 : 연결 오류나옴  
+  - Windows 10 : 연결됨 [ connect.py 사용  -p COM? -s 115200 ]
      ( pip 빌트인 파이썬은 2.7.9 이상 설치요, 2.7.10 으로 OK ) 
