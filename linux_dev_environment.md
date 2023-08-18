@@ -1,4 +1,4 @@
-## 1. 리눅스 : **UBUNTU 18.04**
+## 1. 리눅스 개발환경 : **UBUNTU 18.04**
 ### 1. Python 2.x 설치 
 
   1. apt-get install python 
