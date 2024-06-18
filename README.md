@@ -12,7 +12,9 @@
 
   - email : jefflee@ocube.co.kr 
 
-
 ![image](https://github.com/jefflee2022/Telit_IotSDK/assets/121525685/5fcbb131-42fc-4494-a434-dfe6c168d293)
+![image](https://github.com/jefflee2022/Telit_IotSDK/assets/121525685/094bb74b-43d7-443d-a319-fdc9d4076fba)
+
+
 
 [OCPP1.6 적용 모듈 소개](https://www.datanet.co.kr/news/articleView.html?idxno=185150)
