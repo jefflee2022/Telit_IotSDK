@@ -9,11 +9,10 @@
 ###### 오큐브 / TM 본부 이정민 책임 
 
   - 연락처 : 010-2732-3289 
+  - email : jefflee@ocube.co.kr
+    
+![image](https://github.com/jefflee2022/Telit_IotSDK/assets/121525685/bdd4bd41-53bf-4086-9053-1a87124c4be1)
 
-  - email : jefflee@ocube.co.kr 
-
-![image](https://github.com/jefflee2022/Telit_IotSDK/assets/121525685/5fcbb131-42fc-4494-a434-dfe6c168d293)
-![image](https://github.com/jefflee2022/Telit_IotSDK/assets/121525685/094bb74b-43d7-443d-a319-fdc9d4076fba)
 
 
 
